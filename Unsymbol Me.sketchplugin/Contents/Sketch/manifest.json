@@ -1,0 +1,25 @@
+{
+  "name": "Unsymbol Me",
+  "description": "Convert master symbols to artboards and detach symbol instances",
+  "author": "Roman Shamin",
+  "homepage": "https://github.com/romashamin/unsymbol-me-sketch",
+  "version": 1.0,
+  "identifier": "com.github.romashamin.unsymbol-me-sketch",
+  "appcast": "https://raw.githubusercontent.com/romashamin/unsymbol-me-sketch/master/appcast.xml",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "Master Symbol → Artboard",
+      "identifier": "unsymbol",
+      "shortcut": "ctrl shift s",
+      "script": "Unsymbol Me.js",
+      "handler": "onRun"
+    }
+  ],
+  "menu": {
+    "items": [
+      "unsymbol"
+    ]
+  }
+}
