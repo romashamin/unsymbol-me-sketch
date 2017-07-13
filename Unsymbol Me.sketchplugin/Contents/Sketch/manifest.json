@@ -3,7 +3,7 @@
   "description": "Convert master symbols to artboards and detach symbol instances",
   "author": "Roman Shamin",
   "homepage": "https://github.com/romashamin/unsymbol-me-sketch",
-  "version": 1.0,
+  "version": 1.1,
   "identifier": "com.github.romashamin.unsymbol-me-sketch",
   "appcast": "https://raw.githubusercontent.com/romashamin/unsymbol-me-sketch/master/appcast.xml",
   "compatibleVersion": 3,

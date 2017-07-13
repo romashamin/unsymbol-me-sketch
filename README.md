@@ -4,7 +4,7 @@
 
 <img width="192" height="30" src="https://osom.coffee/files/002/419/551/2419551/original/plugin-updates_2x.png" title="Plugin Update Badge">
 
-**Unsymbol Me 1.0 supports Sketch 45 plugin updating system**
+**Unsymbol Me 1.1 supports Sketch 45 plugin updating system**
 
 Unsymbol Me is a Sketch plugin that ‘unsymbols’ selected symbols — converts master symbols to artboards and detaches symbol instances.
 
