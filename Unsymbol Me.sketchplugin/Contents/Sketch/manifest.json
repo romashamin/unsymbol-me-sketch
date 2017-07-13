@@ -10,7 +10,7 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "Master Symbol → Artboard",
+      "name": "Unsymbol selected",
       "identifier": "unsymbol",
       "shortcut": "ctrl shift s",
       "script": "Unsymbol Me.js",
