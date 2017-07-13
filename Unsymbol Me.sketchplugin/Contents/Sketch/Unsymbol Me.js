@@ -22,8 +22,6 @@ function getMessageFromArgs(symbolsData) {
   let verb          = '';
   let instancePart  = '';
 
-  log(symbolsData);
-
   // No master symbols, no instances
   if (symbolsData.masters.count === 0 && symbolsData.instances.count === 0) {
     resultMessage = 'select at least one symbol';
