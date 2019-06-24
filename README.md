@@ -2,10 +2,6 @@
 
 <img width="256" height="256" src="Unsymbol Me.sketchplugin/Contents/Resources/Icon.png" title="Unsymbol Me Icon">
 
-<img width="192" height="30" src="https://osom.coffee/files/002/419/551/2419551/original/plugin-updates_2x.png" title="Plugin Update Badge">
-
-**Unsymbol Me 1.1 supports Sketch 45 plugin updating system**
-
 Unsymbol Me is a Sketch plugin that ‘unsymbols’ selected symbols — converts master symbols to artboards and detaches symbol instances.
 
 ### Install
