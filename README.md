@@ -25,5 +25,5 @@ If you’re a professional web designer or a developer and Unsymbol Me saves you
 
 ### Thanks
 
-<a href="https://evilmartians.com/?utm_source=compo">
+<a href="https://evilmartians.com/?utm_source=unsymbol-me">
 <img src="https://evilmartians.com/badges/sponsored-by-evil-martians.svg" alt="Sponsored by Evil Martians" width="236" height="54"></a>
